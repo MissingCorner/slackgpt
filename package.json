@@ -9,7 +9,7 @@
   "author": "Nhan Dang",
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^3.14.0",
+    "@slack/bolt": "^3.17.1",
     "csv-parser": "^3.0.0",
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.1",
